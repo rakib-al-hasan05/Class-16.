@@ -1,0 +1,112 @@
+a:focus{
+    border-bottom: none;
+}
+/* .........Banner-Section....... */
+.header{
+    background-color: #101446;
+}
+.header img{
+    width: 90px;
+}
+.header ul{
+    line-height: 53px;
+    margin-bottom: 0;
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a{
+    display: inline-block;
+    color: #fff;
+    margin-right: 20px;
+    text-decoration: none;
+}
+/* ..........Banner-Section........ */
+.banner{
+    background: url(./11111intro-bg.jpg) center no-repeat;
+    background-size: cover;
+    padding: 250px;
+}
+.banner h2{
+    color: #fff;
+    margin-bottom: 3rem;
+}
+.banner p{
+    color: #fff;
+    margin-bottom: 3rem;
+}
+.banner a{
+    color: #fff;
+    background-color: #337ab7;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+/*...............Idinty-Section..............*/
+.idinty{
+    background-color: #bac1f3;
+    padding: 4em;
+}
+.idinty h1{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
+.idinty img{
+    height: 275px;
+    width: 220px;
+    margin-bottom:5px;
+}
+.idinty p{
+    margin: 10px 40px 20px 45px;
+}
+.idinty a{
+    color: #fff;
+    background-color: #337ab7;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+/* ............about-section............ */
+.about{
+    background-color: #c2d4ea;
+    padding: 5rem;
+}
+.about h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.about img{
+    height: 150px;
+}
+.about .p-tag{
+    font-size: 21px;
+}
+/* ..........jogajog..........  */
+.fotter{
+    background-color: #f5f5f5;
+    padding: 3em;
+}
+.fotter h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 3rem;
+}
+/* ................ */
+form{
+    margin-left: 30px;
+}
+.kopila{
+    background: #5bc0de;
+    color: #fff;
+    margin-top: 15px;
+    padding: 7px 15px;
+    border: none;
+    border-radius: 7px;
+}
+footer{
+    background-color: #0062d3;
+    text-align: center;
+    color: #fff;
+    padding-top: 15px;
+}
